@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C/C++ Runner: Debug Session",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "args": [
+                "1",
+                "dead",
+                "dd55413b67eec87f",
+            ],
+            "stopAtEntry": false,
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "program": "${workspaceFolder}/bin/test/aes_encrypt.exe",
+            "environment": []
+        }
+    ]
+}
