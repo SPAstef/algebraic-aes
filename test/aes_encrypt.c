@@ -1,6 +1,7 @@
 #include "aes.h"
 #include "string_utils.h"
-#include <intrin.h>
+#include "intrinsics.h"
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
